@@ -5,7 +5,8 @@ import Service from './components/service'
 import About from './components/About'
 import Playstore from './components/Playstore'
 import Testimonials from './components/testimonials'
-import Footer from './components/footer'
+
+import Footer from './components/Footer'
 
 export const App = () => {
   return (
